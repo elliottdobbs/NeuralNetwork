@@ -7,10 +7,11 @@
 #include <string>
 #include <fstream>
 #include <stdlib.h>
-#include <vector>
 #include <bitset>
 #include <math.h>
 #include <cmath>
+
+#include "NeuralNetwork.cpp"
 using namespace std;
 
 vector<double> sigmoid;
